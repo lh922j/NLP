@@ -1,0 +1,16 @@
+# 대용량 데이터
+data/kookbang/
+data/kookbang_corpus.txt
+data/splits/
+
+# 평가셋은 작으면 포함 (필요시 아래 주석 해제)
+# data/eval_set.txt
+
+# 시스템
+.DS_Store
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
